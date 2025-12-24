@@ -1,0 +1,26 @@
+*{ margin: 0px;
+    padding: 0px;
+}
+
+.heading {
+    width: fit-content;
+    padding: 25px;
+    margin: 0px auto;
+}
+
+ol{
+    margin-top: 50px;
+    margin-left: 1px;
+}
+
+li{
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 280px;
+    background-color: floralwhite;
+    width: max-content;
+}
+body{
+    background-color: darkred;
+}

@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    width: fit-content;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.align{
+    text-align: center;
+    margin-top: 50pxs;
+}
+
+.Home{
+    background-color: floralwhite;
+    margin-top: 100px auto 0;
+    text-align: center;
+    padding: 2px;
+}
+
+.Description{
+    margin: 50px;
+    margin-bottom: 0px;
+}
+
+.ingredients{
+    margin: 50px;
+    margin-bottom: 0px;
+}
+
+.Steps{
+    margin: 50px;
+    margin-bottom: 0px
+}
+
+.org{
+    margin: 50px;
+    margin-top: 0px;
+}
+
+.unorg{
+    margin: 50px;
+    margin-top: 0px;
+}
+
+.content{
+    margin: 50px;
+    margin-top: 0px;
+}
+
+.test{
+    background-color: darkred;
+    padding: 50px;
+}
+
+.font{
+    font-family: fantasy;
+}
+body{
+    background-color: darkred;
+}
