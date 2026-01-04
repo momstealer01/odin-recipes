@@ -11,7 +11,7 @@ h1{
 
 .align{
     text-align: center;
-    margin-top: 50pxs;
+    margin-top: 50px;
 }
 
 .Home{
@@ -57,7 +57,7 @@ h1{
 }
 
 .font{
-    font-family: fantasy;
+    font-family: sans-serif;
 }
 body{
     background-color: #bad9c2;
