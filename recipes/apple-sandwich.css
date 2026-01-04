@@ -52,7 +52,7 @@ h1{
 }
 
 .test{
-    background-color: darkred;
+    background-color: #bad9c2;
     padding: 50px;
 }
 
@@ -60,5 +60,5 @@ h1{
     font-family: fantasy;
 }
 body{
-    background-color: darkred;
+    background-color: #bad9c2;
 }
